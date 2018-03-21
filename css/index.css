@@ -5,3 +5,15 @@ p{
     background-color: pink;
     margin-top: 20px;
 }
+.login{
+    width: 300px;
+    height: auto;
+    background: #f8f8f8;
+
+}
+
+.name{
+    width: 80%;
+    text-align: center;
+
+}
